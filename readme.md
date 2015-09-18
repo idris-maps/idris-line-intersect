@@ -1,4 +1,4 @@
-# idris-lineintersect
+# idris-line-intersect
 
 Takes two lines and returns all intersection points or ```false``` if there are none
 
@@ -11,7 +11,7 @@ $ npm install idris-lineintersect
 ## Usage
 
 ```
-var il = require('idris-lineintersect')
+var il = require('idris-line-intersect')
 ```
 
 ![Line intersections example image](lineIntersect.png)
