@@ -1,0 +1,16 @@
+{
+  "name": "idris-line-intersect",
+  "version": "0.0.0",
+  "description": "Takes two lines and returns all intersection points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "line",
+    "intersection",
+    "GeoJSON"
+  ],
+  "author": "idris-maps.com",
+  "license": "GPL"
+}
